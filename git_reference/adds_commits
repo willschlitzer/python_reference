@@ -10,3 +10,6 @@ All current changes can be staged with:
 
 After files are staged, they must be committed:
     git commit -m "<explanation/description for commit>"
+
+To see the history of git commits:
+    git log
