@@ -7,3 +7,5 @@ A change must first be "added" for staging
 All current changes can be staged with
     git add -A
 
+
+After files are staged, they must be commit
