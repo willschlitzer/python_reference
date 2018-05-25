@@ -16,5 +16,8 @@ To merge branch with the master branch:
     git checkout master
     git merge <branch name>
 
+To delete a branch:
+    git branch -d <branch name>
+
 To display a graphical history of the branches and their commits:
     git log --graph --oneline --decorate --all
