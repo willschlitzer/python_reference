@@ -1,6 +1,7 @@
-"""An explanation of the three main data types used in Python"""
+"""An explanation of the main data types used in Python"""
 
 # There are 3 main data types in Python: strings, integers, and floats
+# There are also Boolean statements
 
 # A string can include any character
 # A string's data is cannot be changed
@@ -27,3 +28,8 @@ print(type(6/2))
 print(type(3.5))
 print(type(3.0))
 print(type(5 + 3.0))
+
+# A Boolean statement can be evaluated as a True/False
+# It is not only the literal True/False statement, but equations that can be evaluated as True/False
+print(type(True))
+print(type(3 == 5))
