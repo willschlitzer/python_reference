@@ -2,10 +2,11 @@ git is a version control system that allows one to access a history of changes m
 The most basic function of git is the commit
 A git commit is adding any changes/updates to the git log
 
-A change must first be "added" for staging
+A change must first be "added" for staging:
     git add <filename>
-All current changes can be staged with
+All current changes can be staged with:
     git add -A
 
 
-After files are staged, they must be commit
+After files are staged, they must be committed:
+    git commit -m "<explanation/description for commit>"
