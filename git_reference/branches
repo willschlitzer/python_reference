@@ -1,1 +1,2 @@
-git log --graph --oneline --decorate --all
+To display a graphical history of the branches and their commits:
+    git log --graph --oneline --decorate --all
