@@ -1,0 +1,11 @@
+Before a git repository can be used, it much be initialized
+In command line, switch to the folder of the project
+
+Initialize the git repository:
+    git init
+
+A .gitignore should be created to have certain files avoided from the git repository
+Examples include: personal API keys, personal data, etc.
+In a Unix-like environment:
+    touch .gitignore
+The .gitignore can be edited as a regular text file (it may be a hidden file)
