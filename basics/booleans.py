@@ -11,6 +11,3 @@ print(3.0 == 3)
 # Booleans can be used to determine if something is in a string/list/dictionary:
 print('a' in 'antelope')
 print('x' in 'mongoose')
-
-
-
