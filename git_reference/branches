@@ -1,2 +1,9 @@
+By default, git saves data to a master branch for the project
+To work on segments of a project, or an experimental change, alternate branches can be created
+
+To see the current project's branches:
+    git branches
+The current branch will have an asterisk next to it
+
 To display a graphical history of the branches and their commits:
     git log --graph --oneline --decorate --all
