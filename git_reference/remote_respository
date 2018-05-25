@@ -1,0 +1,13 @@
+A remote repository (such as Github) may be used, either as a means to make the project publicly available or collaborative
+
+To add a git repository:
+    Navigate to the desired folder for the project
+    The git clone will create a top-level folder
+    git clone <git repository address/url>
+
+To update a local repository from a remote respository:
+    git pull
+
+To push changes to a remote repository:
+    git push origin master
+    User account services such as GitHub will request a username/password
