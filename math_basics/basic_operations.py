@@ -30,3 +30,9 @@ print('Without parenthesis')
 print(3+6/2**2)
 print('With parenthesis')
 print(((3+6)/2)**2)
+
+# Python has a built in rounding function
+x= 3.1415926535
+print('Unrounded', x)
+# round() function takes 2 arguments: the float, and the number of digits after the decimal place
+print('Rounded to 4 decimals', round(x, 4))
