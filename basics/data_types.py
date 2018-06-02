@@ -18,7 +18,7 @@ print(type('Hello'))
 # Divison, even when resulting in a whole number, returns a float
 print(type(3))
 print(type(3+3))
-print(type(5-3))
+printg(type(5-3))
 print(type(5*3))
 print(type(6/2))
 
