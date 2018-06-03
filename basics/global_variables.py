@@ -3,6 +3,7 @@
 # Variables defined outside of functions are considered global
 # Global variables can be used in other functions
 
+# Creates a global variable outside of function
 num = 3
 
 def print_global():
