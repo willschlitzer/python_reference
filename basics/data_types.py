@@ -10,7 +10,7 @@
 # The type() function returns the type of data that was inputted to this
 # The print() function prints what type() returns
 # In this class, it is class 'str' for string
-print(type('Hello'))
+print(type("Hello"))
 
 # An integer is a whole number
 # It does have a number value
