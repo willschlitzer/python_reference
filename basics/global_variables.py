@@ -6,9 +6,11 @@
 # Creates a global variable outside of function
 num = 3
 
+
 def print_global():
     # Print global variable
     print(num)
+
 
 # Call function
 print_global()
@@ -18,6 +20,7 @@ def make_global():
     # Creates a global variable inside a function
     global num2
     num2 = 10
+
 
 make_global()
 # Calls global variable outside of the function that defined it

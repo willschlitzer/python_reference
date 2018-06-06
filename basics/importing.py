@@ -13,10 +13,12 @@ print(math.tau)
 
 # specific functions and variables can be imported
 from math import pi
+
 print(pi)
 # All functions/variables can be imported
 # This is not common practice
 from math import *
+
 print(tau)
 
 # imported functions and programs can be renamed

@@ -10,17 +10,17 @@
 # The type() function returns the type of data that was inputted to this
 # The print() function prints what type() returns
 # In this class, it is class 'str' for string
-print(type('Hello'))
+print(type("Hello"))
 
 # An integer is a whole number
 # It does have a number value
 # When added, subtracted, or multiplied with another integer, the result is also an integer
 # Divison, even when resulting in a whole number, returns a float
 print(type(3))
-print(type(3+3))
-print(type(5-3))
-print(type(5*3))
-print(type(6/2))
+print(type(3 + 3))
+print(type(5 - 3))
+print(type(5 * 3))
+print(type(6 / 2))
 
 # A float is any number including decimals
 # When uses with an integer, the result is an float
